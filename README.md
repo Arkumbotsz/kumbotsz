@@ -17,4 +17,4 @@
 },
   "homepage": ""
 }
-"start": "node app.js"
+
